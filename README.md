@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=140&section=header" width="100%" alt="banner"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Bem-vindo!" alt="Bem-vindo!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=2EA043&center=true&vCenter=true&width=600&lines=Bem-vindo!;Leonardo+Buzzoni;20+anos" alt="Bem-vindo! Leonardo Buzzoni, 20 anos"/>
 
   **Desenvolvedor Backend | Java & Spring Boot, C# e Node.js**
 </div>
