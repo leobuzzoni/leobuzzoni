@@ -17,7 +17,7 @@
 **Back-End**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,mysql,postgres" alt="Back-End"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,mysql,postgres,sqlite" alt="Back-End"/>
 </p>
 
 **Front-End**
