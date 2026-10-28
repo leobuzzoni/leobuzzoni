@@ -1,30 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=140&section=header" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=160&section=header" width="100%" alt="banner"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=2EA043&center=true&vCenter=true&width=600&lines=Bem-vindo!;Leonardo+Buzzoni;20+anos" alt="Bem-vindo! Leonardo Buzzoni, 20 anos"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=0D9488&center=true&vCenter=true&width=600&lines=Bem-vindo!;Leonardo+Buzzoni;20+anos" alt="Bem-vindo! Leonardo Buzzoni, 20 anos"/>
 
   **Desenvolvedor Backend | Java & Spring Boot, C# e Node.js**
+
+  <img src="https://img.shields.io/badge/São_Paulo,_Brasil-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização"/>
+  <img src="https://img.shields.io/badge/Mackenzie-Sistemas_de_Informação-334155?style=flat-square&logo=educative&logoColor=white" alt="Formação"/>
+  <img src="https://img.shields.io/badge/AR_Sistemas_Laboratoriais-334155?style=flat-square&logo=briefcase&logoColor=white" alt="Empresa"/>
 </div>
 
 ## 🚀 Projetos
 
-- **[BuzzWallet](https://github.com/leobuzzoni/BuzzWallet)**: aplicação de finanças pessoais e carteira de investimentos com Spring Boot, MySQL e Angular (em desenvolvimento)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[BuzzWallet](https://github.com/leobuzzoni/BuzzWallet)** | Aplicação de finanças pessoais e carteira de investimentos *(em desenvolvimento)* | Spring Boot · MySQL · Angular |
 
 ## 💻 Tecnologias
 
-Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" alt="Front-End"/>
-</p>
-
-Back-End
+**Back-End**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,express,mysql,sqlite" alt="Back-End"/>
 </p>
 
-Ferramentas e Plataformas
+**Front-End**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Front-End"/>
+</p>
+
+**Ferramentas e Plataformas**
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,maven,idea,vscode" alt="Ferramentas"/>
@@ -33,6 +39,8 @@ Ferramentas e Plataformas
 ## 📞 Contato
 
 <div align="center">
-  <a href="mailto:leonardobuzzonijaime@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/leonardobuzzoni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:leonardobuzzonijaime@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/leonardobuzzoni"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=100&section=footer" width="100%" alt="rodapé"/>
