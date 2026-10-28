@@ -1,8 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0057B8&height=140&section=header" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=140&section=header" width="100%" alt="banner"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0066FF&center=true&vCenter=true&width=435&lines=Bem-vindo!" alt="Bem-vindo!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Bem-vindo!" alt="Bem-vindo!"/>
+
+  **Desenvolvedor Backend | Java & Spring Boot, C# e Node.js**
 </div>
+
+## 🚀 Projetos
+
+- **[BuzzWallet](https://github.com/leobuzzoni/BuzzWallet)**: aplicação de finanças pessoais e carteira de investimentos com Spring Boot, MySQL e Angular (em desenvolvimento)
 
 ## 💻 Tecnologias
 
@@ -15,13 +21,13 @@ Front-End
 Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,mysql" alt="Back-End"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,express,mysql,sqlite" alt="Back-End"/>
 </p>
 
 Ferramentas e Plataformas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,idea,vscode" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,maven,idea,vscode" alt="Ferramentas"/>
 </p>
 
 ## 📞 Contato
