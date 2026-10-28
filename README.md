@@ -10,9 +10,7 @@
 
 ## 🚀 Projetos
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[BuzzWallet](https://github.com/leobuzzoni/BuzzWallet)** | Aplicação de finanças pessoais e carteira de investimentos *(em desenvolvimento)* | Spring Boot · MySQL · Angular |
+- **[BuzzWallet](https://github.com/leobuzzoni/BuzzWallet)**: aplicação de finanças pessoais e carteira de investimentos com Spring Boot, MySQL e Angular (em desenvolvimento)
 
 ## 💻 Tecnologias
 
